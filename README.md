@@ -1,6 +1,7 @@
 # Hi there, I'm RbtYuKu  👋
 
-I'm ~~Not~~ a game developer. Also I can translate english to zh-TW, zh-HK and zh-CN.
+I'm ~~Not~~ a ~~lazy~~ game developer. Also, I can translate english to zh-TW, zh-HK and zh-CN.<br>
+<sub>Well I gaming more than developing lol</sub>
 
 ## 💬 About me
 ### 🌱 I’m currently learning
