@@ -29,6 +29,7 @@ I'm ~~Not~~ a ~~lazy~~ game developer. Also, I can translate english to zh-TW, z
 A tower defense <sub>roblox</sub> game.<br>
 A FPS game <sub>roblox</sub> game.
 
+<a href="https://github.com/RabbitYuKu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RabbitYuKu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RabbitYuKu's github stats" /></a> | <a href="https://github.com/RabbitYuKu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitYuKu&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!--
 **RabbitYuKu/RabbitYuKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
