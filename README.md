@@ -6,8 +6,6 @@ I'm ~~Not~~ a ~~lazy~~ game developer. Also, I can translate english to zh-TW, z
 ## 💬 About me
 ### 🌱 I’m currently learning
 <p>
-<img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
